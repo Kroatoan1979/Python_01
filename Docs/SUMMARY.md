@@ -21,4 +21,3 @@
 * [4 - Estruturas condicionais](4-estruturas-condicionais.md)
 * [5 - Estruturas de repetição](5-estruturas-de-repeticao.md)
 * [6 - Classe .string() manipulação e métodos](6-classe-.string-manipulacao-e-metodos/README.md)
-  * [Page 1](6-classe-.string-manipulacao-e-metodos/page-1.md)
