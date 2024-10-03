@@ -4,9 +4,19 @@
 #                    
 # Funções e conceitos abordados:
 # - 
-
 import funcoes
 funcoes.clean()
 
+def pergunta_numeros():
+    a = int(input("Qual o primeiro número: "))
+    b = int(input("Qual o segundo número: "))
+    return a ,b
 
-[n**2 if n > 6 else n for n in range(10) if n % 2 == 0]
+def calcula_soma(a , b):
+    soma = a + b
+    print(f"A soma é {soma}")
+
+
+
+
+
